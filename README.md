@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushal-s0/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/kushal-s0/leetcode/tree/master/0382-linked-list-random-node) |
 ## Design
 |  |
 | ------- |
@@ -40,4 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushal-s0/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/kushal-s0/leetcode/tree/master/0382-linked-list-random-node) |
+## Linked List
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/kushal-s0/leetcode/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/kushal-s0/leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
