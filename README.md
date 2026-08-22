@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushal-s0/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/kushal-s0/leetcode/tree/master/0382-linked-list-random-node) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kushal-s0/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Design
 |  |
 | ------- |
