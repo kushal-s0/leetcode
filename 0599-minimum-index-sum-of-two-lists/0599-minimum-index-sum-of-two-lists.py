@@ -10,7 +10,7 @@ class Solution:
                 current_sum = i + j            
                 if current_sum < min_sum:
                     min_sum = current_sum
-                    result = [string]  # Reset list       
+                    result = [string]         
                 elif current_sum == min_sum:
                     result.append(string)
                     
