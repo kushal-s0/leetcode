@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kushal-s0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0791-custom-sort-string](https://github.com/kushal-s0/leetcode/tree/master/0791-custom-sort-string) |
 | [1927-sum-game](https://github.com/kushal-s0/leetcode/tree/master/1927-sum-game) |
+| [2000-reverse-prefix-of-word](https://github.com/kushal-s0/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushal-s0/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/kushal-s0/leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/kushal-s0/leetcode/tree/master/3174-clear-digits) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushal-s0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kushal-s0/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushal-s0/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2000-reverse-prefix-of-word](https://github.com/kushal-s0/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kushal-s0/leetcode/tree/master/0496-next-greater-element-i) |
+| [2000-reverse-prefix-of-word](https://github.com/kushal-s0/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/kushal-s0/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
