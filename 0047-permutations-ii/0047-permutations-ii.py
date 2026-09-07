@@ -4,7 +4,7 @@ class Solution:
         def bt(f):
             if f ==len(nums):
                 result.append(nums[:])
-                return result
+                return 
             for i in range(f,len(nums)):
                 nums[f],nums[i]=nums[i],nums[f]
                 bt(f+1)
