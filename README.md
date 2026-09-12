@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/kushal-s0/leetcode/tree/master/0382-linked-list-random-node) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/kushal-s0/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushal-s0/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushal-s0/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/kushal-s0/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3174-clear-digits](https://github.com/kushal-s0/leetcode/tree/master/3174-clear-digits) |
 ## Prefix Sum
 |  |
