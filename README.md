@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/kushal-s0/leetcode/tree/master/1816-truncate-sentence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kushal-s0/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushal-s0/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kushal-s0/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushal-s0/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushal-s0/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kushal-s0/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/kushal-s0/leetcode/tree/master/0791-custom-sort-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushal-s0/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kushal-s0/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kushal-s0/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/kushal-s0/leetcode/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/kushal-s0/leetcode/tree/master/1927-sum-game) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kushal-s0/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushal-s0/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
 |  |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/kushal-s0/leetcode/tree/master/2396-strictly-palindromic-number) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kushal-s0/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
