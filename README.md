@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kushal-s0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0791-custom-sort-string](https://github.com/kushal-s0/leetcode/tree/master/0791-custom-sort-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kushal-s0/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1768-merge-strings-alternately](https://github.com/kushal-s0/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/kushal-s0/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/kushal-s0/leetcode/tree/master/1816-truncate-sentence) |
 | [1927-sum-game](https://github.com/kushal-s0/leetcode/tree/master/1927-sum-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushal-s0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kushal-s0/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushal-s0/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/kushal-s0/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/kushal-s0/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushal-s0/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/kushal-s0/leetcode/tree/master/2396-strictly-palindromic-number) |
