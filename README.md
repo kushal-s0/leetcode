@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/kushal-s0/leetcode/tree/master/0382-linked-list-random-node) |
 | [0504-base-7](https://github.com/kushal-s0/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/kushal-s0/leetcode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/kushal-s0/leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushal-s0/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/kushal-s0/leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushal-s0/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/kushal-s0/leetcode/tree/master/2413-smallest-even-multiple) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kushal-s0/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
