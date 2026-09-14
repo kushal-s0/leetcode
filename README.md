@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushal-s0/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kushal-s0/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushal-s0/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/kushal-s0/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kushal-s0/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kushal-s0/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kushal-s0/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushal-s0/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kushal-s0/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kushal-s0/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/kushal-s0/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/kushal-s0/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/kushal-s0/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kushal-s0/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Tree
 |  |
