@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kushal-s0/leetcode/tree/master/0022-generate-parentheses) |
 | [0290-word-pattern](https://github.com/kushal-s0/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushal-s0/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kushal-s0/leetcode/tree/master/0389-find-the-difference) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kushal-s0/leetcode/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/kushal-s0/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kushal-s0/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kushal-s0/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kushal-s0/leetcode/tree/master/0047-permutations-ii) |
 ## Divide and Conquer
@@ -312,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kushal-s0/leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kushal-s0/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
