@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kushal-s0/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/kushal-s0/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kushal-s0/leetcode/tree/master/0047-permutations-ii) |
+| [0216-combination-sum-iii](https://github.com/kushal-s0/leetcode/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/kushal-s0/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushal-s0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kushal-s0/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kushal-s0/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kushal-s0/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kushal-s0/leetcode/tree/master/0047-permutations-ii) |
+| [0216-combination-sum-iii](https://github.com/kushal-s0/leetcode/tree/master/0216-combination-sum-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
