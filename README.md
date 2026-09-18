@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kushal-s0/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kushal-s0/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kushal-s0/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3146-permutation-difference-between-two-strings](https://github.com/kushal-s0/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kushal-s0/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kushal-s0/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/kushal-s0/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kushal-s0/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/kushal-s0/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/kushal-s0/leetcode/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/kushal-s0/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/kushal-s0/leetcode/tree/master/3174-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/kushal-s0/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
