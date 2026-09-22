@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/kushal-s0/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0382-linked-list-random-node](https://github.com/kushal-s0/leetcode/tree/master/0382-linked-list-random-node) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/kushal-s0/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kushal-s0/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kushal-s0/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Reservoir Sampling
 |  |
@@ -245,11 +246,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kushal-s0/leetcode/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/kushal-s0/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kushal-s0/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/kushal-s0/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kushal-s0/leetcode/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kushal-s0/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kushal-s0/leetcode/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kushal-s0/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kushal-s0/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
