@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kushal-s0/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/kushal-s0/leetcode/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kushal-s0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kushal-s0/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushal-s0/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kushal-s0/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/kushal-s0/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kushal-s0/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/kushal-s0/leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushal-s0/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kushal-s0/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/kushal-s0/leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushal-s0/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kushal-s0/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
