@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/kushal-s0/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kushal-s0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0791-custom-sort-string](https://github.com/kushal-s0/leetcode/tree/master/0791-custom-sort-string) |
+| [1528-shuffle-string](https://github.com/kushal-s0/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kushal-s0/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/kushal-s0/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/kushal-s0/leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kushal-s0/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushal-s0/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kushal-s0/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/kushal-s0/leetcode/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kushal-s0/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kushal-s0/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/kushal-s0/leetcode/tree/master/1672-richest-customer-wealth) |
