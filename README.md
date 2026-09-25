@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kushal-s0/leetcode/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kushal-s0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0791-custom-sort-string](https://github.com/kushal-s0/leetcode/tree/master/0791-custom-sort-string) |
+| [0804-unique-morse-code-words](https://github.com/kushal-s0/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1512-number-of-good-pairs](https://github.com/kushal-s0/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kushal-s0/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kushal-s0/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/kushal-s0/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kushal-s0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0791-custom-sort-string](https://github.com/kushal-s0/leetcode/tree/master/0791-custom-sort-string) |
+| [0804-unique-morse-code-words](https://github.com/kushal-s0/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1528-shuffle-string](https://github.com/kushal-s0/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kushal-s0/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/kushal-s0/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kushal-s0/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/kushal-s0/leetcode/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kushal-s0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0804-unique-morse-code-words](https://github.com/kushal-s0/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kushal-s0/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushal-s0/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kushal-s0/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
