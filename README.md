@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/kushal-s0/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1512-number-of-good-pairs](https://github.com/kushal-s0/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kushal-s0/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/kushal-s0/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kushal-s0/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kushal-s0/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kushal-s0/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/kushal-s0/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kushal-s0/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/kushal-s0/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/kushal-s0/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/kushal-s0/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/kushal-s0/leetcode/tree/master/1816-truncate-sentence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kushal-s0/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kushal-s0/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushal-s0/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/kushal-s0/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/kushal-s0/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kushal-s0/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/kushal-s0/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
