@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kushal-s0/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushal-s0/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kushal-s0/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushal-s0/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kushal-s0/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/kushal-s0/leetcode/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kushal-s0/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/kushal-s0/leetcode/tree/master/2000-reverse-prefix-of-word) |
