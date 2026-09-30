@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kushal-s0/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/kushal-s0/leetcode/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kushal-s0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0735-asteroid-collision](https://github.com/kushal-s0/leetcode/tree/master/0735-asteroid-collision) |
 | [0804-unique-morse-code-words](https://github.com/kushal-s0/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kushal-s0/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushal-s0/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kushal-s0/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/kushal-s0/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kushal-s0/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/kushal-s0/leetcode/tree/master/0735-asteroid-collision) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kushal-s0/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kushal-s0/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/kushal-s0/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/kushal-s0/leetcode/tree/master/0735-asteroid-collision) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kushal-s0/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushal-s0/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushal-s0/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
