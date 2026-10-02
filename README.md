@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kushal-s0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0791-custom-sort-string](https://github.com/kushal-s0/leetcode/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/kushal-s0/leetcode/tree/master/0804-unique-morse-code-words) |
+| [0904-fruit-into-baskets](https://github.com/kushal-s0/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kushal-s0/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kushal-s0/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kushal-s0/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kushal-s0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0735-asteroid-collision](https://github.com/kushal-s0/leetcode/tree/master/0735-asteroid-collision) |
 | [0804-unique-morse-code-words](https://github.com/kushal-s0/leetcode/tree/master/0804-unique-morse-code-words) |
+| [0904-fruit-into-baskets](https://github.com/kushal-s0/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kushal-s0/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kushal-s0/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushal-s0/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -456,5 +458,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/kushal-s0/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kushal-s0/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
