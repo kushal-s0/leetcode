@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kushal-s0/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushal-s0/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kushal-s0/leetcode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kushal-s0/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kushal-s0/leetcode/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kushal-s0/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0791-custom-sort-string](https://github.com/kushal-s0/leetcode/tree/master/0791-custom-sort-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushal-s0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kushal-s0/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kushal-s0/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kushal-s0/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kushal-s0/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kushal-s0/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/kushal-s0/leetcode/tree/master/0506-relative-ranks) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushal-s0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kushal-s0/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/kushal-s0/leetcode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kushal-s0/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/kushal-s0/leetcode/tree/master/0506-relative-ranks) |
 | [0791-custom-sort-string](https://github.com/kushal-s0/leetcode/tree/master/0791-custom-sort-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushal-s0/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
