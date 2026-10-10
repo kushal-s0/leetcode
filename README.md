@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kushal-s0/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kushal-s0/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kushal-s0/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/kushal-s0/leetcode/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/kushal-s0/leetcode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushal-s0/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/kushal-s0/leetcode/tree/master/0216-combination-sum-iii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kushal-s0/leetcode/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/kushal-s0/leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kushal-s0/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/kushal-s0/leetcode/tree/master/1323-maximum-69-number) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kushal-s0/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kushal-s0/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/kushal-s0/leetcode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/kushal-s0/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
