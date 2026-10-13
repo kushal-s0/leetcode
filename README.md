@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kushal-s0/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kushal-s0/leetcode/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/kushal-s0/leetcode/tree/master/0090-subsets-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kushal-s0/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushal-s0/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/kushal-s0/leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/kushal-s0/leetcode/tree/master/0260-single-number-iii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kushal-s0/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushal-s0/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/kushal-s0/leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushal-s0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
