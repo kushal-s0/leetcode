@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushal-s0/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/kushal-s0/leetcode/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushal-s0/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/kushal-s0/leetcode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/kushal-s0/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/kushal-s0/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kushal-s0/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kushal-s0/leetcode/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/kushal-s0/leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushal-s0/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kushal-s0/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushal-s0/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/kushal-s0/leetcode/tree/master/0216-combination-sum-iii) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kushal-s0/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kushal-s0/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushal-s0/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushal-s0/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kushal-s0/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kushal-s0/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kushal-s0/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kushal-s0/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kushal-s0/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushal-s0/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushal-s0/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kushal-s0/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kushal-s0/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kushal-s0/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushal-s0/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/kushal-s0/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
