@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/kushal-s0/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/kushal-s0/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/kushal-s0/leetcode/tree/master/0836-rectangle-overlap) |
+| [1025-divisor-game](https://github.com/kushal-s0/leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushal-s0/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kushal-s0/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/kushal-s0/leetcode/tree/master/1323-maximum-69-number) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/kushal-s0/leetcode/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/kushal-s0/leetcode/tree/master/1927-sum-game) |
 ## Stack
 |  |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kushal-s0/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kushal-s0/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/kushal-s0/leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/kushal-s0/leetcode/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/kushal-s0/leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/kushal-s0/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Counting Sort
 |  |
@@ -582,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kushal-s0/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kushal-s0/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kushal-s0/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
