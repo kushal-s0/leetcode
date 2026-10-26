@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/kushal-s0/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0856-score-of-parentheses](https://github.com/kushal-s0/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kushal-s0/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0944-delete-columns-to-make-sorted](https://github.com/kushal-s0/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/kushal-s0/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kushal-s0/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1528-shuffle-string](https://github.com/kushal-s0/leetcode/tree/master/1528-shuffle-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/kushal-s0/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/kushal-s0/leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/kushal-s0/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/kushal-s0/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/kushal-s0/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kushal-s0/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushal-s0/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -594,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/kushal-s0/leetcode/tree/master/1025-divisor-game) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/kushal-s0/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
