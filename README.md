@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/kushal-s0/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kushal-s0/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kushal-s0/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/kushal-s0/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kushal-s0/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kushal-s0/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kushal-s0/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kushal-s0/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/kushal-s0/leetcode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/kushal-s0/leetcode/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/kushal-s0/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushal-s0/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/kushal-s0/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/kushal-s0/leetcode/tree/master/3838-weighted-word-mapping) |
